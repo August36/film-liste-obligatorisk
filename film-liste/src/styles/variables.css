@@ -1,0 +1,15 @@
+:root {
+
+    /* colors */
+    --color-bg: #1b1b1b;
+    --color-main: #2F5755;
+    --color-secondary: #13443f;
+    --color-accent: #d7e6e4;
+    --color-text: #E0D9D9;
+    --color-button: #13443f;
+    --color-button-hover: #000303;
+    /* spacing */
+    --spacing-small: 0.5rem;
+    --spacing-med: 1rem;
+    --spacing-large: 2rem;
+}
